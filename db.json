@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Angel Munoz",
+      "empresa": "JAMC",
+      "email": "jamc221996@gmail.com",
+      "telefono": "584140520548",
+      "notas": "prueba 3",
+      "id": 3
+    },
+    {
+      "nombre": "Jose Angel Munoz Cardozo",
+      "empresa": "JAMC",
+      "email": "jamc221996@gmail.com",
+      "telefono": "584140520548",
+      "notas": "test notas",
+      "id": 4
+    },
+    {
+      "nombre": "Joshe React",
+      "empresa": "JAMC2",
+      "email": "jamc221996@gmail.ve",
+      "telefono": "04140520548",
+      "notas": "React Router DOM ",
+      "id": 6
+    }
+  ]
+}
